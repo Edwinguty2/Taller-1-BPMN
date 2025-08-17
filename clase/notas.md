@@ -24,7 +24,7 @@ Durante la sesión se trabajó en la comprensión y modelado del **Proceso de Re
 
 ## 🧩 Boceto inicial del modelo
 
-![Modelo BPMN - Historia Clínica](../entrega/modelo-clase.png)
+![Modelo BPMN - Historia Clínica](modelo-clase.png)
 
 ## 🔁 Tareas definidas para complementar el taller
 
